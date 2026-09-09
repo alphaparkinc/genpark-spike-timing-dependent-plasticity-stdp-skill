@@ -1,0 +1,13 @@
+{
+  "name": "genpark-spike-timing-dependent-plasticity-stdp-skill",
+  "version": "1.0.0",
+  "description": "Spike-Timing-Dependent Plasticity (STDP) unsupervised Hebbian synaptic learning rule with asymmetric exponential long-term potentiation and depression.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "stdp",
+    "synaptic-plasticity",
+    "hebbian-learning",
+    "spiking-neural-networks"
+  ]
+}
